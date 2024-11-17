@@ -21,6 +21,6 @@
 * [4.Python中的注释](di-san-zhang-python-bian-cheng-ji-chu/4.python-zhong-de-zhu-shi.md)
 * [5.Python代码缩进](di-san-zhang-python-bian-cheng-ji-chu/5.python-dai-ma-suo-jin.md)
 
-## 第三章-数据类型和运算符
+## 第四章-数据类型和运算符
 
-* [Page 1](di-san-zhang-shu-ju-lei-xing-he-yun-suan-fu/page-1.md)
+* [Page 1](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/page-1.md)
