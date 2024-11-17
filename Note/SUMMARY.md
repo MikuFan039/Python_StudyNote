@@ -1,8 +1,10 @@
 # Table of contents
 
-## 第一章-简介和基础知识
+## 第一章-简介和编程基础
 
-* [Page 1](README.md)
+* [1.程序设计语言的分类](README.md)
+* [2.Python语言简介](di-yi-zhang-jian-jie-he-bian-cheng-ji-chu/2.python-yu-yan-jian-jie.md)
+* [3.IPO程序编程方法](di-yi-zhang-jian-jie-he-bian-cheng-ji-chu/3.ipo-cheng-xu-bian-cheng-fang-fa.md)
 
 ## 第二章-软件和环境的安装
 
