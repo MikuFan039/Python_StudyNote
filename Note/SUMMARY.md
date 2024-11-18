@@ -26,3 +26,4 @@
 * [1.保留字](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/1.-bao-liu-zi.md)
 * [2.标识符](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/2.-biao-shi-fu.md)
 * [3.变量与常量](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/3.-bian-liang-yu-chang-liang.md)
+* [4.数据类型](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/4.-shu-ju-lei-xing.md)
