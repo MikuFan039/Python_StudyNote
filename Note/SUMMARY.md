@@ -23,4 +23,5 @@
 
 ## 第四章-数据类型和运算符
 
-* [Page 1](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/page-1.md)
+* [1.保留字](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/1.-bao-liu-zi.md)
+* [2.标识符](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/2.-biao-shi-fu.md)
