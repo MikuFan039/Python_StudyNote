@@ -18,9 +18,9 @@
 
 &#x20; **1.编译型**：也称为**静态语言**，由源代码（高级语言代码）通过 **编译器Compiler** 转换为目标代码（机器语言代码）的过程，不可跨平台
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; **2.解释型**：也称为**脚本语言**，由源代码（高级语言代码）通过 **解释器Interpreter** 逐条转换成目标代码的同时逐条运行目标代码的过程，可跨平台
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
