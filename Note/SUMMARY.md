@@ -28,6 +28,6 @@
 * [3.变量与常量](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/3.-bian-liang-yu-chang-liang.md)
 * [4.数据类型](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/4.-shu-ju-lei-xing.md)
 * [5.数值类型](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/5.-shu-zhi-lei-xing.md)
-* [6.字符串类型（未完成）](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/6.-zi-fu-chuan-lei-xing-wei-wan-cheng.md)
+* [6.字符串类型](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/6.-zi-fu-chuan-lei-xing.md)
 * [7.布尔类型](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/7.-bu-er-lei-xing.md)
 * [8.转义字符和原字符](di-si-zhang-shu-ju-lei-xing-he-yun-suan-fu/8.-zhuan-yi-zi-fu-he-yuan-zi-fu.md)
