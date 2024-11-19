@@ -33,7 +33,7 @@
 * [8.转义字符和原字符](di-si-zhang-python-zhong-de-shu-ju-lei-xing/8.-zhuan-yi-zi-fu-he-yuan-zi-fu.md)
 * [10.字符串的索引和切片](di-si-zhang-python-zhong-de-shu-ju-lei-xing/10.-zi-fu-chuan-de-suo-yin-he-qie-pian.md)
 * [11.数据类型转换](di-si-zhang-python-zhong-de-shu-ju-lei-xing/11.-shu-ju-lei-xing-zhuan-huan.md)
-* [12.eval函数](di-si-zhang-python-zhong-de-shu-ju-lei-xing/12.eval-han-shu.md)
+* [12.类型转换函数-eval](di-si-zhang-python-zhong-de-shu-ju-lei-xing/12.-lei-xing-zhuan-huan-han-shu-eval.md)
 
 ## 第五章-Python中的运算符
 
